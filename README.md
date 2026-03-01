@@ -75,7 +75,7 @@ Under_Construction_Landing_Page/
 git clone https://github.com/your-username/Under_Construction_Landing_Page.git
 ```
 
-2. Open `index.html` in your browser.
+2. Open `https://under-construction-ui.netlify.app/` in your browser.
 
 3. Customize:
    - Progress percentage  
